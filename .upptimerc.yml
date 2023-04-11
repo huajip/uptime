@@ -1,16 +1,14 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: huajip # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: maimai DX Prober
+    url: https://www.diving-fish.com/api/maimaidxprober/message
+  - name: Oldmai WEBUI
+    url: https://my-aime.cn
+  - name: JiNET
+    url: http://jinet.wacca.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
