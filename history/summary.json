@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diving-fish.com.ico",
     "slug": "maimai-dx-prober",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 952,
-    "timeDay": 892,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
-    "dailyMinutesDown": {
-      "2023-04-14": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 987,
+    "timeDay": 960,
+    "timeWeek": 987,
+    "timeMonth": 987,
+    "timeYear": 987,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oldmai WEBUI",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1077,
-    "timeDay": 900,
-    "timeWeek": 1077,
-    "timeMonth": 1077,
-    "timeYear": 1077,
+    "time": 1048,
+    "timeDay": 936,
+    "timeWeek": 1048,
+    "timeMonth": 1048,
+    "timeYear": 1048,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1734,
-    "timeDay": 1654,
-    "timeWeek": 1734,
-    "timeMonth": 1734,
-    "timeYear": 1734,
+    "time": 1733,
+    "timeDay": 1733,
+    "timeWeek": 1733,
+    "timeMonth": 1733,
+    "timeYear": 1733,
     "dailyMinutesDown": {}
   }
 ]
