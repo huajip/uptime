@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diving-fish.com.ico",
     "slug": "maimai-dx-prober",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1024,
     "timeDay": 1021,
     "timeWeek": 1035,
@@ -42,7 +42,7 @@
     "url": "http://jinet.wacca.cn",
     "icon": "https://icons.duckduckgo.com/ip3/jinet.wacca.cn.ico",
     "slug": "ji-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1798,
     "timeMonth": 1799,
     "timeYear": 1799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 0
+    }
   }
 ]
