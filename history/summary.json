@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diving-fish.com.ico",
     "slug": "maimai-dx-prober",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1023,
-    "timeDay": 1020,
-    "timeWeek": 1052,
-    "timeMonth": 1023,
-    "timeYear": 1023,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1021,
+    "timeDay": 964,
+    "timeWeek": 1025,
+    "timeMonth": 1021,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2023-04-21": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 710,
-    "timeWeek": 1166,
-    "timeMonth": 1047,
-    "timeYear": 1047,
+    "time": 1030,
+    "timeDay": 680,
+    "timeWeek": 1103,
+    "timeMonth": 1030,
+    "timeYear": 1030,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1805,
-    "timeDay": 1908,
-    "timeWeek": 1781,
-    "timeMonth": 1805,
-    "timeYear": 1805,
+    "time": 1799,
+    "timeDay": 1670,
+    "timeWeek": 1749,
+    "timeMonth": 1799,
+    "timeYear": 1799,
     "dailyMinutesDown": {}
   }
 ]
