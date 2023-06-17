@@ -26,9 +26,9 @@
     "url": "https://my-aime.cn",
     "icon": "https://icons.duckduckgo.com/ip3/my-aime.cn.ico",
     "slug": "oldmai-webui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1258,
     "timeMonth": 1022,
     "timeYear": 1025,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "JiNET",
