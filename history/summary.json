@@ -6,9 +6,9 @@
     "slug": "maimai-dx-prober",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.71%",
     "time": 1109,
     "timeDay": 1014,
@@ -16,7 +16,7 @@
     "timeMonth": 1134,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2023-09-20": 0,
+      "2023-09-20": 8,
       "2023-06-08": 552,
       "2023-06-07": 93,
       "2023-04-21": 22
