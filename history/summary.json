@@ -57,19 +57,19 @@
     "url": "http://jinet.wacca.cn",
     "icon": "https://icons.duckduckgo.com/ip3/jinet.wacca.cn.ico",
     "slug": "ji-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1861,
-    "timeDay": 2453,
-    "timeWeek": 2050,
-    "timeMonth": 1947,
+    "timeDay": 2175,
+    "timeWeek": 2031,
+    "timeMonth": 1945,
     "timeYear": 1861,
     "dailyMinutesDown": {
-      "2024-04-07": 0
+      "2024-04-07": 6
     }
   }
 ]
