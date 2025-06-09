@@ -1,7 +1,7 @@
 url: https://www.diving-fish.com/api/maimaidxprober/message
-status: down
-code: 404
-responseTime: 1482
-lastUpdated: 2025-06-09T16:46:16.868Z
+status: up
+code: 200
+responseTime: 1525
+lastUpdated: 2025-06-09T17:08:48.079Z
 startTime: 2023-04-11T01:39:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
