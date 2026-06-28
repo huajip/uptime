@@ -4,17 +4,17 @@
     "url": "https://www.diving-fish.com/api/maimaidxprober/message",
     "icon": "https://icons.duckduckgo.com/ip3/www.diving-fish.com.ico",
     "slug": "maimai-dx-prober",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.81%",
-    "time": 2724,
-    "timeDay": 1123,
-    "timeWeek": 1078,
-    "timeMonth": 1071,
-    "timeYear": 1208,
+    "time": 2726,
+    "timeDay": 798,
+    "timeWeek": 1046,
+    "timeMonth": 1067,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-07-16": 20,
       "2025-08-19": 54,
@@ -25,7 +25,8 @@
       "2026-06-03": 409,
       "2026-06-04": 179,
       "2026-06-07": 56,
-      "2026-06-09": 121
+      "2026-06-09": 121,
+      "2026-06-28": 0
     }
   },
   {
@@ -39,10 +40,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.80%",
-    "time": 811,
-    "timeDay": 536,
-    "timeWeek": 616,
-    "timeMonth": 559,
+    "time": 808,
+    "timeDay": 537,
+    "timeWeek": 606,
+    "timeMonth": 557,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-07-17": 550,
@@ -76,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2346,
-    "timeDay": 2969,
-    "timeWeek": 2775,
-    "timeMonth": 2640,
-    "timeYear": 2370,
+    "time": 2345,
+    "timeDay": 1812,
+    "timeWeek": 2732,
+    "timeMonth": 2634,
+    "timeYear": 2369,
     "dailyMinutesDown": {}
   }
 ]
