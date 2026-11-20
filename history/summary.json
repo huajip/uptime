@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 1152,
-    "timeDay": 986,
-    "timeWeek": 867,
-    "timeMonth": 903,
+    "timeDay": 1124,
+    "timeWeek": 945,
+    "timeMonth": 913,
     "timeYear": 1065,
     "dailyMinutesDown": {
       "2026-01-19": 15,
@@ -43,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.71%",
     "time": 675,
-    "timeDay": 506,
-    "timeWeek": 615,
-    "timeMonth": 631,
-    "timeYear": 657,
+    "timeDay": 692,
+    "timeWeek": 620,
+    "timeMonth": 632,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2025-12-31": 802,
       "2025-12-30": 1440,
@@ -70,17 +70,15 @@
     "slug": "ji-net",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2411,
-    "timeDay": 1683,
-    "timeWeek": 2223,
-    "timeMonth": 2274,
+    "time": 2410,
+    "timeDay": 1685,
+    "timeWeek": 2131,
+    "timeMonth": 2240,
     "timeYear": 2457,
-    "dailyMinutesDown": {
-      "2026-11-19": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
